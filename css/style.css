@@ -1,0 +1,170 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+.icon-area ul{
+    list-style: none;
+    margin-top: 60px;
+   
+
+}
+
+.icon-area ul li{
+    display: inline-block;
+}
+
+.icon-area ul li a{
+    
+    color: brown;
+    padding: 20px 30 px;
+    display: block;
+    font-size: 40px;
+    border-radius: 10px;
+}
+
+.icon-area ul li a:hover{
+    background:palegreen;
+    color: darkcyan;
+    border-radius: 40%;
+}
+.container1{
+    width: 90%;
+    margin: auto;
+}
+.icon1 ul{
+    list-style: none;
+    margin-top: 60px;
+
+}
+
+.icon1 ul li{
+    display: inline-block;
+}
+
+.icon1 ul li a{
+    
+    color: brown;
+    padding: 20px 30 px;
+    display: block;
+    font-size: 40px;
+    border-radius: 10px;
+}
+
+.icon1 ul li a:hover{
+    background:palegreen;
+    color: darkcyan;
+    border-radius: 40%;
+}
+.container2{
+    width: 90%;
+    margin: auto;
+}
+.icon2 ul{
+    list-style: none;
+    margin-top: 60px;
+
+}
+
+.icon2 ul li{
+    display: inline-block;
+}
+
+.icon2 ul li a{
+    
+    color: brown;
+    padding: 20px 30 px;
+    display: block;
+    font-size: 40px;
+    border-radius: 10px;
+}
+
+.icon2 ul li a:hover{
+    background:palegreen;
+    color: darkcyan;
+    border-radius: 40%;
+}
+.icon2 ul{
+    list-style: none;
+    margin-top: 60px;
+
+}
+
+.icon2 ul li{
+    display: inline-block;
+}
+
+.icon2 ul li a{
+    
+    color: brown;
+    padding: 20px 30 px;
+    display: block;
+    font-size: 40px;
+    border-radius: 10px;
+}
+
+.icon2 ul li a:hover{
+    background:palegreen;
+    color: darkcyan;
+    border-radius: 40%;
+}
+.container3{
+    width: 90%;
+    margin: auto;
+}
+.icon3 ul{
+    list-style: none;
+    margin-top: 60px;
+
+}
+
+.icon3 ul li{
+    display: inline-block;
+}
+
+.icon3 ul li a{
+    
+    color: brown;
+    padding: 20px 30 px;
+    display: block;
+    font-size: 40px;
+    border-radius: 10px;
+}
+
+.icon3 ul li a:hover{
+    background:palegreen;
+    color: darkcyan;
+    border-radius: 40%;
+}
+.container4{
+    width: 90%;
+    margin: auto;
+}
+.icon4 ul{
+    list-style: none;
+    margin-top: 60px;
+
+}
+
+.icon4 ul li{
+    display: inline-block;
+}
+
+.icon4 ul li a{
+    
+    color: brown;
+    padding: 20px 30 px;
+    display: block;
+    font-size: 40px;
+    border-radius: 10px;
+}
+.icon4 ul li a:hover{
+    background:palegreen;
+    color: darkcyan;
+    border-radius: 40%;
+}
